@@ -304,3 +304,4 @@ Copyright (c) 2022 [Pipecraft](https://www.pipecraft.net). Licensed under the [C
 [![Pipecraft](https://img.shields.io/badge/site-pipecraft-brightgreen)](https://www.pipecraft.net)
 [![PZWD](https://img.shields.io/badge/site-pzwd-brightgreen)](https://pzwd.net)
 [![BestXTools](https://img.shields.io/badge/site-bestxtools-brightgreen)](https://www.bestxtools.com)
+[![Lumlee PDF Merger](https://lumlee.com/tools/pdf-merger)](https://lumlee.com/tools/)
